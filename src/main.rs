@@ -10,4 +10,3 @@ fn main() {
     let server = Server::new(port);
     server.run();
 }
-
