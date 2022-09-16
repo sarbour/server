@@ -1,6 +1,5 @@
 use std::{
     io::{Write, Result as IoResult},
-    net::TcpStream,
 };
 
 use super::StatusCode;
